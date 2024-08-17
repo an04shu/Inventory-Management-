@@ -1,0 +1,24 @@
+Team Name :- tan04sh29210
+Round Number :- 2
+Team Members :- Anshu Tank, Rhydham Singla
+Problem Statement :- Organizations encounter challenges in accurately forecasting demand, leading to issues like stockouts and excess inventory due to inefficient inventory management.
+Domain :- Pharmaceuticals
+
+Online Folder with our submission (with better quality Video) :- https://drive.google.com/drive/folders/1IaQPVOBdD7ccMgpAXCTD2UVcDLI4UL0G?usp=sharing
+
+Online Google Collab file :- https://colab.research.google.com/drive/10u6UKUtKVT-lbZR1zDw0z2jxJup5sSis#scrollTo=gd8eTX8r8xgT
+
+Steps to Start:-
+	Set up a Google Collab environment.
+	Upload the dataset named "Dataset1.csv" to the Collab notebook.
+	Run all code cells in the notebook.
+
+Attached files include:
+	Dataset1.csv
+	inventory1.ipynb
+	Round2.mp4
+	doc.txt
+
+Dataset source :- https://www.kaggle.com/code/milanzdravkovic/pharma-sales-data-analysis-and-forecasting/input?select=salesmonthly.csv
+
+All the code has been explained along by in the notebook itself.
